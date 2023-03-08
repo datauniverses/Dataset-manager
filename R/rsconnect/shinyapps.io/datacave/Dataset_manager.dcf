@@ -1,0 +1,13 @@
+name: Dataset_manager
+title: Dataset_manager
+username:
+account: datacave
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8514298
+bundleId: 6931614
+url: https://datauniverse.shinyapps.io/Dataset_manager/
+when: 1678290235.72545
+lastSyncTime: 1678290235.72545
+asMultiple: FALSE
+asStatic: FALSE
